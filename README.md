@@ -96,17 +96,13 @@ This project solved the problem by:
 - Delivering actionable insights to support smarter marketing and inventory decisions.
 
 
-# Click the image below to view the Google Sheets portfolio
+## Click the image below to view the Google Sheets portfolio
 
-[![Portfolio Image](image_2025-06-13_192445890.png)](https://docs.google.com/spreadsheets/d/1OrLZFcJEkMrorvPTXskVOjOulbyvqC-XirssWay6Wv4/edit?usp=sharing)
-
-
-
-
+<a href="https://docs.google.com/spreadsheets/d/1OrLZFcJEkMrorvPTXskVOjOulbyvqC-XirssWay6Wv4/edit?usp=sharing" target="_blank">
+  <img src="image_2025-06-13_192445890.png" alt="Portfolio Image" />
+</a>
 
 
+## 🙋‍♂️ Author
+Saud Ijaz – saudajaz20607@gmail.com || saudajaz143@gmail.com
 
-
-
-## 📜 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
