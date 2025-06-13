@@ -96,6 +96,9 @@ This project solved the problem by:
 - Delivering actionable insights to support smarter marketing and inventory decisions.
 
 
+![Portfolio Image](image_2025-06-13_192445890.png)
+
+
 
 
 
