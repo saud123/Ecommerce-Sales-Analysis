@@ -96,7 +96,10 @@ This project solved the problem by:
 - Delivering actionable insights to support smarter marketing and inventory decisions.
 
 
-![Portfolio Image](image_2025-06-13_192445890.png)
+# Click the image below to view the Google Sheets portfolio
+
+[![Portfolio Image](image_2025-06-13_192445890.png)](https://docs.google.com/spreadsheets/d/1OrLZFcJEkMrorvPTXskVOjOulbyvqC-XirssWay6Wv4/edit?usp=sharing)
+
 
 
 
